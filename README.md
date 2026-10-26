@@ -1,6 +1,6 @@
 # MixSIS: Mixed-supervised instance segmentation
 
-[Christian Wilms](https://www.inf.uni-hamburg.de/en/inst/ab/cv/people/wilms.html), [Emre Gülsoylu](https://www.inf.uni-hamburg.de/en/inst/ab/cv/people/guelsoylu.html), Sven Schreiber, and [Simone Frintrop](https://www.inf.uni-hamburg.de/en/inst/ab/cv/people/frintrop.html)
+[Christian Wilms](https://www.inf.uni-hamburg.de/en/inst/ab/cv/people/wilms.html), [Emre Gülsoylu](https://www.inf.uni-hamburg.de/en/inst/ab/cv/people/guelsoylu.html), [Sven Schreiber](https://svenschreiber.github.io/), and [Simone Frintrop](https://www.inf.uni-hamburg.de/en/inst/ab/cv/people/frintrop.html)
 
 This repository contains data, models, and code for our BMVC'26 paper **MixSIS: Mixed-supervised instance segmentation**, including the dataset splits for our newly introduced MixSIS task. 
 
