@@ -25,9 +25,9 @@ We offer a `json` file per mix introduced in the paper to evaluate MixSIS. Each 
 
 | Mix Name | Dataset Split |
 |----------|---------------|
-| Mix 1 | Link to `json` |
-| Mix 2 | Link to `json` |
-| Mix 3 | Link to `json` |
+| Mix 1 | [Link to `json`](https://cloud.uni-hamburg.de/s/8dsji768gKEBeBE) |
+| Mix 2 | [Link to `json`](https://cloud.uni-hamburg.de/s/N7sZWtd5x4pLJmE) |
+| Mix 3 | [Link to `json`](https://cloud.uni-hamburg.de/s/oRpadZyXENqLxns) |
 
 ## AnnsMixer
 ### System
@@ -42,9 +42,9 @@ In the following, we provide pseudo mask annotations generated in AnnsMixer, tra
 
 | Mix Name | AnnsMixer Results [mAP] | Resources |
 |----------|-----------------------|-----------------|
-| Mix 1 | 0.323 | [Annotations](), [trained model](), [results]() |
-| Mix 2 | 0.295 | [Annotations](), [trained model](), [results]() |
-| Mix 3 | 0.266 | [Annotations](), [trained model](), [results]() |
+| Mix 1 | 0.323 | [Annotations](https://cloud.uni-hamburg.de/s/GCfbf8ip6XQqW2z), [trained model](), [results]() |
+| Mix 2 | 0.295 | [Annotations](https://cloud.uni-hamburg.de/s/2AzXPY2dNn7Lo3q), [trained model](), [results]() |
+| Mix 3 | 0.266 | [Annotations](https://cloud.uni-hamburg.de/s/9rCBLAe5dCkWDog), [trained model](), [results]() |
 
 #### WSIS
 
