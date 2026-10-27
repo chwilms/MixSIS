@@ -42,14 +42,14 @@ In the following, we provide pseudo mask annotations generated in AnnsMixer, tra
 
 | Mix Name | AnnsMixer Results [mAP] | Resources |
 |----------|-----------------------|-----------------|
-| Mix 1 | 0.323 | [Annotations](https://cloud.uni-hamburg.de/s/GCfbf8ip6XQqW2z), [trained model](), [results]() |
-| Mix 2 | 0.295 | [Annotations](https://cloud.uni-hamburg.de/s/2AzXPY2dNn7Lo3q), [trained model](), [results]() |
-| Mix 3 | 0.266 | [Annotations](https://cloud.uni-hamburg.de/s/9rCBLAe5dCkWDog), [trained model](), [results]() |
+| Mix 1 | 0.323 | [Annotations](https://cloud.uni-hamburg.de/s/GCfbf8ip6XQqW2z), [trained model](https://cloud.uni-hamburg.de/s/W9sS2X9bxGx5p4f), [results](https://cloud.uni-hamburg.de/s/8QagBTGCAGE9BiS) |
+| Mix 2 | 0.295 | [Annotations](https://cloud.uni-hamburg.de/s/2AzXPY2dNn7Lo3q), [trained model](https://cloud.uni-hamburg.de/s/5rs4NNcWKPq8Zcj), [results](https://cloud.uni-hamburg.de/s/Re7afk9eHwmtRXL) |
+| Mix 3 | 0.266 | [Annotations](https://cloud.uni-hamburg.de/s/9rCBLAe5dCkWDog), [trained model](https://cloud.uni-hamburg.de/s/yoBioyzDaMepcgt), [results](https://cloud.uni-hamburg.de/s/GTprtdKacHNLaYz) |
 
 #### WSIS
 
 | Annotation Type | AnnsMixer Results [mAP] | Resources |
 |----------|-----------------------|-----------------|
-| Box | 0.345 | [Annotations](), [trained model](), [results]() |
-| Point | 0.262 | [Annotations](), [trained model](), [results]() |
-| Image | 0.220 | [Annotations](), [trained model](), [results]() |
+| Box | 0.345 | [Annotations](https://cloud.uni-hamburg.de/s/EjQJYjdKnD2ieQj), [trained model](https://cloud.uni-hamburg.de/s/9HfeWjtfyAEoz4g), [results](https://cloud.uni-hamburg.de/s/kKbK29zqcwXLXYY) |
+| Point | 0.262 | [Annotations](https://cloud.uni-hamburg.de/s/JbkcTMTd4DXLEfY), [trained model](https://cloud.uni-hamburg.de/s/wnEZdfKzRWbP89e), [results](https://cloud.uni-hamburg.de/s/4YqFkZ7NWNpoRna) |
+| Image | 0.220 | [Annotations](https://cloud.uni-hamburg.de/s/mwgPzCkZLTWNWBb), [trained model](https://cloud.uni-hamburg.de/s/apC45236F5RP25c), [results](https://cloud.uni-hamburg.de/s/4DWRXNQrJ23qWoj) |
