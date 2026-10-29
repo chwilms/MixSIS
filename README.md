@@ -4,7 +4,7 @@
 
 This repository contains data, models, and code for our BMVC'26 paper **MixSIS: Mixed-supervised instance segmentation**, including the dataset splits for our newly introduced MixSIS task. 
 
-[[Paper](https://www.inf.uni-hamburg.de/en/inst/ab/cv/media/wilms-etal-bmvc2026.pdf)], [[Supplementary Material](https://www.inf.uni-hamburg.de/en/inst/ab/cv/media/wilms-etal-bmvc2026-supp.pdf)], [[Video]()], [[Poster]()]
+[[Paper](https://www.inf.uni-hamburg.de/en/inst/ab/cv/media/wilms-etal-bmvc2026.pdf)], [[Supplementary Material](https://www.inf.uni-hamburg.de/en/inst/ab/cv/media/wilms-etal-bmvc2026-supp.pdf)], [[Video](https://www.youtube.com/watch?v=iN0cQe5eE0Q)], [[Poster](https://www.inf.uni-hamburg.de/en/inst/ab/cv/media/wilms-etal-bmvc2026-poster.pdf)]
 
 In traditional fully-supervised instance segmentation (FSIS) and weakly-supervised instance segmentation (WSIS), training usually uses a single annotation level, such as masks, boxes, points, or image-level annotations across the entire dataset. Since annotations have [different costs](https://arxiv.org/abs/2303.15062) (manual annotation effort), it is preferable to minimize the effort and optimize the annotation scheme. For instance, not every instance needs costly mask or box supervision. The person in Figure 1, which is well captured from a single point, is an example of this. In contrast, the bench in Figure 1 needs at least box supervision for a proper annotation. The reason here is that the centroids of both objects are within the person.
 
